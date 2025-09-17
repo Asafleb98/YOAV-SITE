@@ -1,0 +1,12 @@
+img{
+    border-radius: 20%;
+}
+
+
+
+.card-cover {
+  background-size: cover;      /* שהתמונה תמלא את כל הרקע */
+  background-position: center; /* שהתמונה תהיה ממורכזת */
+  background-repeat: no-repeat; /* שלא יחזור פעמיים */
+}
+
